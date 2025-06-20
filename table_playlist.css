@@ -1,0 +1,19 @@
+table {
+  width: 100%;
+  text-align: center;
+  background-color: rgb(201, 153, 8);
+}
+
+.main-heading {
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #1d020d;
+  padding: 20px 0;
+  margin-bottom: 2px;
+  background: linear-gradient(to right, #664f25, #ffb347);
+  border-radius: 20px;
+  box-shadow: 0 4px 8px rgba(49, 5, 5, 0.2);
+  letter-spacing: 10px;
+  font-weight: 700;
+}
